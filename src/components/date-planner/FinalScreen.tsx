@@ -61,7 +61,7 @@ export function FinalScreen({ selections }: Props) {
         className="max-w-lg space-y-4 text-center"
       >
         <h1 className="font-serif text-3xl text-stone-800 sm:text-4xl md:text-5xl">
-          Perfect choice, Nini <span aria-hidden>❤️</span>
+          Perfect choice, Alina <span aria-hidden>❤️</span>
         </h1>
         <p className="text-lg text-stone-600">Your part is done.</p>
         <p className="text-lg leading-relaxed text-stone-600">

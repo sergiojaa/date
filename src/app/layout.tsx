@@ -14,7 +14,7 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "For Nini",
+  title: "For Alina",
   description: "A little something special, just for you.",
 };
 

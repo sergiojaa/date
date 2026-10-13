@@ -22,7 +22,7 @@ export function IntroScreen({ onOpen, opening }: Props) {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2 }}
         >
-          Hi Nini <span aria-hidden>❤️</span>
+          Hi Alina <span aria-hidden>❤️</span>
         </motion.p>
         <motion.p
           className="text-lg leading-relaxed text-stone-600 sm:text-xl"
